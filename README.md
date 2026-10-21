@@ -3,7 +3,7 @@
 *Embedded Firmware Developer | Digital System Design & RTL Enthusiast | IoT Hardware*
 
 Guwahati, Assam, India  
-**Get in touch:** [Email](dipjyotibhuyan600@gmail.com) • [LinkedIn](https://linkedin.com/in/dipjyotibhuyan)
+**Get in touch:** [Email](mailto:dipjyotibhuyan600@gmail.com) • [LinkedIn](https://linkedin.com/in/dipjyotibhuyan)
 
 ---
 
